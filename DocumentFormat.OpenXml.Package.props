@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
+	  <VersionPrefix>6.0.101</VersionPrefix>
     <Authors>Microsoft</Authors>
     <Summary>The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents</Summary>
     <Description><![CDATA[The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:
